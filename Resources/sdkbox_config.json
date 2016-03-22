@@ -1,0 +1,36 @@
+{
+    "android": {
+        "AdMob": {
+            "ads": {
+                "gameover": {
+                    "type": "interstitial",
+                    "id": "ca-app-pub-xxx"
+                },
+                "home": {
+                    "width": 300,
+                    "type": "banner",
+                    "id": "ca-app-pub-xxx",
+                    "alignment": "bottom",
+                    "height": 100
+                }
+            }
+        }
+    },
+    "ios": {
+        "AdMob": {
+            "ads": {
+                "gameover": {
+                    "type": "interstitial",
+                    "id": "ca-app-pub-xxx"
+                },
+                "home": {
+                    "width": 300,
+                    "type": "banner",
+                    "id": "ca-app-pub-xxx",
+                    "alignment": "bottom",
+                    "height": 50
+                }
+            }
+        }
+    }
+}
